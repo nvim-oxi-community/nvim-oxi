@@ -1,3 +1,10 @@
+**NOTE:** I started this repository with the thought that it should
+          act as a contingency in case my `nvim-oximlua` idea falls apart,
+          however, after looking again at noib3/nvim-oxi#231, 
+          noib3/nvim-oxi#279 and noib3/nvim-oxi#288 I decided I should
+          instead focus on making it work, but then again, I tend to be
+          flippant so I keep this repository in place for now.
+
 # 🔗 nvim-oxi
 
 [![Latest version]](https://crates.io/crates/nvim-oxi)
