@@ -1,3 +1,12 @@
+**NOTE:** This is a community maintained fork of `nvim-oxi`.
+          It exists due to the recent drop in upstream activity.
+          If @noib3 returns to active maintenance/development
+          of `nvim-oxi` the fate of this fork will be up to him.
+          Currently this fork is meant to be maintenance only
+          but this is open for [discussion].
+
+[discussion]: TODO: discussion link
+
 # 🔗 nvim-oxi
 
 [![Latest version]](https://crates.io/crates/nvim-oxi)
